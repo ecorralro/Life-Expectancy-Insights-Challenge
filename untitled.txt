@@ -1,0 +1,5 @@
+Dividir los datos en conjuntos de entrenamiento y prueba.
+Aplicar SMOTE al conjunto de entrenamiento.
+Realizar la selección de características en los datos balanceados del conjunto de entrenamiento.
+Entrenar el modelo con el conjunto de entrenamiento balanceado y reducido.
+Evaluar el modelo con el conjunto de prueba original (sin SMOTE).
